@@ -1,0 +1,15 @@
+@charset "utf-8";
+
+*{
+    margin: 0px;
+    padding: 0px;
+    
+}
+body{
+    background-image: linear-gradient(to right,rgb(20,147,220),rgb(17,54,71)) ;
+    color: white;
+}
+.table-bg{
+    background: rgba(0,0,0,0.5);
+    border-radius: 15px 15px 0 0;
+}
